@@ -6,7 +6,10 @@ www.ReyesAI.fund
 
 Contributors:
 
-www.github.com/jenniferreyesdev \n
-www.github.com/dreyesferr \n
-www.github.com/reyeser \n
-www.github.com/byronreyesdev \n
+www.github.com/jenniferreyesdev 
+
+www.github.com/dreyesferr 
+
+www.github.com/reyeser 
+
+www.github.com/byronreyesdev 
